@@ -1,0 +1,81 @@
+
+/* Class = "UINavigationItem"; title = "Статистика"; ObjectID = "2w7-zF-n5m"; */
+"2w7-zF-n5m.title" = "Статистика";
+
+/* Class = "UINavigationItem"; title = "Доход"; ObjectID = "3ar-fN-Lkr"; */
+"3ar-fN-Lkr.title" = "Доход";
+
+/* Class = "UINavigationItem"; title = "История"; ObjectID = "4Db-qs-WDc"; */
+"4Db-qs-WDc.title" = "История";
+
+/* Class = "UILabel"; text = "Сумма расхода"; ObjectID = "Agf-dg-AyV"; */
+"Agf-dg-AyV.text" = "Сумма расхода";
+
+/* Class = "UIViewController"; title = "Расход"; ObjectID = "D7c-zP-qza"; */
+"D7c-zP-qza.title" = "Расход";
+
+/* Class = "UINavigationItem"; title = "Расход"; ObjectID = "E6m-PU-FPe"; */
+"E6m-PU-FPe.title" = "Расход";
+
+/* Class = "UINavigationItem"; title = "Меню"; ObjectID = "HbI-S5-3co"; */
+"HbI-S5-3co.title" = "Меню";
+
+/* Class = "UIViewController"; title = "Главная"; ObjectID = "ITc-zZ-cb6"; */
+"ITc-zZ-cb6.title" = "Главная";
+
+/* Class = "UILabel"; text = "Январь"; ObjectID = "KqE-sX-sEy"; */
+"KqE-sX-sEy.text" = "Январь";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "LgR-jC-GNX"; */
+"LgR-jC-GNX.title" = "Item";
+
+/* Class = "UIViewController"; title = "Доход"; ObjectID = "NPj-2L-Kbo"; */
+"NPj-2L-Kbo.title" = "Доход";
+
+/* Class = "UILabel"; text = "Остаток"; ObjectID = "QFf-Uv-SXT"; */
+"QFf-Uv-SXT.text" = "Остаток";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Rov-ZR-S7G"; */
+"Rov-ZR-S7G.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "История"; ObjectID = "UYi-3E-cLf"; */
+"UYi-3E-cLf.normalTitle" = "История";
+
+/* Class = "UIViewController"; title = "Статистика"; ObjectID = "ajY-rJ-m70"; */
+"ajY-rJ-m70.title" = "Статистика";
+
+/* Class = "UILabel"; text = "100 ₽"; ObjectID = "cjD-Iw-poi"; */
+"cjD-Iw-poi.text" = "100 ₽";
+
+/* Class = "UILabel"; text = "Сумма"; ObjectID = "hcT-7z-baz"; */
+"hcT-7z-baz.text" = "Сумма";
+
+/* Class = "UIButton"; normalTitle = "Статистика"; ObjectID = "j4W-ru-dzj"; */
+"j4W-ru-dzj.normalTitle" = "Статистика";
+
+/* Class = "UILabel"; text = "Название"; ObjectID = "kjh-gP-w1c"; */
+"kjh-gP-w1c.text" = "Название";
+
+/* Class = "UILabel"; text = "Сумма дохода"; ObjectID = "lKu-39-RaS"; */
+"lKu-39-RaS.text" = "Сумма дохода";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "oDP-7y-Vrf"; */
+"oDP-7y-Vrf.title" = "Item";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "sNg-M5-mIL"; */
+"sNg-M5-mIL.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Главная"; ObjectID = "smq-YD-5Xe"; */
+"smq-YD-5Xe.normalTitle" = "Главная";
+
+/* Class = "UINavigationItem"; title = "Главная"; ObjectID = "svU-a1-l0e"; */
+"svU-a1-l0e.title" = "Главная";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "uXm-sB-LCy"; */
+"uXm-sB-LCy.title" = "Item";
+
+/* Class = "UILabel"; text = "50 ₽"; ObjectID = "ubd-2l-fsK"; */
+"ubd-2l-fsK.text" = "50 ₽";
+
+/* Class = "UILabel"; text = "100 ₽"; ObjectID = "vqD-8a-XuK"; */
+"vqD-8a-XuK.text" = "100 ₽";
